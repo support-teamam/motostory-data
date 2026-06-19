@@ -1,8 +1,8 @@
 {
   "schema": 2,
-  "version": 1,
+  "version": 2,
   "url": "https://support-teamam.github.io/motostory-data/data/vehicles.json",
-  "sha256": "9ed4193c7d95890fe0136d5905b3693d987fc58cde1cee32aad52045fae31330",
+  "sha256": "9b89626ee99fbf3a1f68677570904a352cd2d0919193cad6d4ce997181ead614",
   "vehicleCount": 111,
-  "generatedAt": "2026-06-11T16:00:13.703Z"
+  "generatedAt": "2026-06-19T18:38:08.897Z"
 }
