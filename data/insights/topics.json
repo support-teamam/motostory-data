@@ -1,0 +1,147 @@
+{
+  "app": "moto",
+  "schema": 1,
+  "generatedAt": "2026-06-23T03:56:34Z",
+  "disclaimer": "General information compiled from public sources, for reference only — not professional advice and not reviewed by licensed experts. Verify before acting; Team AM is not liable.",
+  "source": "researched (see per-topic sources)",
+  "topics": [
+    {
+      "id": "pre-ride-inspection",
+      "title": "Run a quick pre-ride check before you roll",
+      "summary": "A short Tires-Controls-Lights-Oil-Chassis-Stands sweep catches most problems before they bite.",
+      "detail": "The Motorcycle Safety Foundation's T-CLOCS checklist (Tires and wheels, Controls, Lights and electrics, Oil and other fluids, Chassis, Stands) is the standard pre-ride inspection taught in the Basic RiderCourse. MSF suggests running the full list at least monthly and before any long trip. It is a habit, not a repair task — just looking for anything obviously wrong.",
+      "tags": ["inspection", "safety", "routine"],
+      "severity": "safety",
+      "sources": [
+        { "name": "Motorcycle Safety Foundation — T-CLOCS Pre-Ride Inspection Checklist", "url": "https://msf-usa.org/documents/library/t-clocs-pre-ride-inspection-checklist/" }
+      ]
+    },
+    {
+      "id": "chain-tension",
+      "title": "Keep chain slack in the manufacturer's window",
+      "summary": "Too tight wears parts fast; too loose can skip or derail — set it to spec.",
+      "detail": "Most motorcycles call for roughly 20-40 mm (about 0.75-1.5 in) of chain slack, but the exact figure varies by model, so always use your service manual's number. Measure at the tightest spot of the chain, since slack changes as the wheel rotates. Adjust by moving the rear wheel via the swingarm adjusters, keeping both sides even to preserve wheel alignment.",
+      "tags": ["chain", "drivetrain", "adjustment"],
+      "severity": "attention",
+      "sources": [
+        { "name": "Motorcycle.com — How To Adjust A Motorcycle Chain", "url": "https://www.motorcycle.com/how-to/how-to-adjust-a-motorcycle-chain" },
+        { "name": "Motorcycle Safety Foundation — T-CLOCS Pre-Ride Inspection Checklist", "url": "https://msf-usa.org/documents/library/t-clocs-pre-ride-inspection-checklist/" }
+      ]
+    },
+    {
+      "id": "chain-clean-lube",
+      "title": "Clean and lube the chain on a regular cycle",
+      "summary": "A common baseline is every 300-600 miles, and always after riding in the rain.",
+      "detail": "For most street riders a clean-and-lube every 300-600 miles is a reasonable baseline; sealed O-ring chains can often go toward the longer end, plain chains need more frequent care. Wet, muddy, or dusty riding shortens the interval. After rain or a wash, lubricate the chain once it dries to keep moisture from starting rust. Confirm the right interval and any factory-grease notes in your manual.",
+      "tags": ["chain", "drivetrain", "lubrication"],
+      "severity": "info",
+      "sources": [
+        { "name": "RevZilla — How to clean and lube a motorcycle chain", "url": "https://www.revzilla.com/common-tread/how-to-clean-and-lube-a-motorcycle-chain" },
+        { "name": "JD Power — How to Lube a Motorcycle Chain Like a Pro", "url": "https://www.jdpower.com/motorcycles/shopping-guides/how-to-lube-a-motorcycle-chain-like-a-pro" }
+      ]
+    },
+    {
+      "id": "tire-pressure",
+      "title": "Check tire pressure cold, at least monthly",
+      "summary": "Set pressure when tires are cold to the manufacturer's recommended psi.",
+      "detail": "NHTSA guidance is to check tire pressure at least once a month with tires cold — meaning the vehicle has not been driven for at least three hours (or under one mile in that time). Set to the manufacturer's recommended cold pressure, not the maximum stamped on the sidewall. Pressure drops as temperatures fall, so re-check when the weather turns cold.",
+      "tags": ["tires", "safety", "pressure"],
+      "severity": "safety",
+      "sources": [
+        { "name": "NHTSA — TireWise: Tire Safety", "url": "https://www.nhtsa.gov/vehicle-safety/tires" },
+        { "name": "Bridgestone — Motorcycle Tire Safety and Maintenance Manual", "url": "https://tires.bridgestone.com/en-us/learn/tire-maintenance/motorcycle-tire-safety-and-maintenance-manual" }
+      ]
+    },
+    {
+      "id": "tire-tread",
+      "title": "Replace tires before tread reaches the wear limit",
+      "summary": "Traction drops sharply near the wear bars — don't ride them bald.",
+      "detail": "U.S. federal regulations set a 1/32-inch (about 0.8 mm) minimum tread depth, and some states require 2/32 inch. Many tires have molded wear indicators: when the tread wears down to the indicator (around 1/32 inch), smooth sections appear in the grooves, signaling replacement. Traction degrades rapidly as you approach this point, so replace once the limit is reached at any point on the tread.",
+      "tags": ["tires", "safety", "wear"],
+      "severity": "safety",
+      "sources": [
+        { "name": "Michelin — Motorcycle tire tread depth: legal limit", "url": "https://www.michelinman.com/motorcycle/tips-and-advice/tire-basics/motorcycle-tire-tread-depth-legal-limit" },
+        { "name": "Motorcycle Industry Council — Motorcycle Tire Guide (PDF)", "url": "https://www.mic.org/Downloads/Tire_Guide.pdf" }
+      ]
+    },
+    {
+      "id": "tire-age",
+      "title": "Watch tire age, not just tread",
+      "summary": "Rubber hardens and cracks over years even with tread left.",
+      "detail": "The DOT date code on the sidewall ends in four digits in WWYY format (week and year of manufacture); e.g. 2323 means week 23 of 2023. Major makers list roughly 10 years as the maximum service life for a well-kept tire and suggest closer inspection from about 5 years. Aging shows as a hardened compound, fine sidewall cracking, and reduced wet grip, so judge by both age and condition.",
+      "tags": ["tires", "age", "inspection"],
+      "severity": "attention",
+      "sources": [
+        { "name": "RevZilla — The truth about tire age", "url": "https://www.revzilla.com/common-tread/debunking-the-tire-age-myth" },
+        { "name": "Bridgestone — Motorcycle Tire Safety and Maintenance Manual", "url": "https://tires.bridgestone.com/en-us/learn/tire-maintenance/motorcycle-tire-safety-and-maintenance-manual" }
+      ]
+    },
+    {
+      "id": "oil-change",
+      "title": "Change oil and filter on a sensible interval",
+      "summary": "Often 3,000-5,000 miles or about six months — but oil type and your manual decide.",
+      "detail": "A common range for regular street riding is every 3,000-5,000 miles or about six months. The interval shifts with oil type: mineral oil shorter (~2,000-3,000 miles), full synthetic longer (often 7,000-10,000 miles). New bikes usually get a first change around 1,000 miles to clear break-in debris, and infrequently ridden bikes still benefit from at least one change a year. Always use the oil grade and interval your service manual specifies.",
+      "tags": ["oil", "engine", "interval"],
+      "severity": "attention",
+      "sources": [
+        { "name": "Haynes Manuals — How Often Do You Need to Change Your Motorcycle Oil?", "url": "https://us.haynes.com/blogs/tips-tutorials/how-often-do-you-need-change-your-motorcycle-oil" }
+      ]
+    },
+    {
+      "id": "brake-fluid",
+      "title": "Flush brake fluid about every two years",
+      "summary": "Brake fluid absorbs water over time, which lowers its boiling point.",
+      "detail": "Most manufacturers recommend replacing DOT 3/DOT 4 brake fluid roughly every two years because it is hygroscopic — it absorbs moisture, which causes corrosion and lowers the boiling point, risking brake fade under heat. Some makers specify replacing sooner if measured moisture content reaches about 3% or more. Heavy or track riders may want to check more often.",
+      "tags": ["brakes", "fluid", "safety"],
+      "severity": "safety",
+      "sources": [
+        { "name": "Life at Lean — Motorcycle Brake Fluid Guide", "url": "https://lifeatlean.com/motorcycle-brake-fluid-guide/" }
+      ]
+    },
+    {
+      "id": "brake-pads",
+      "title": "Replace brake pads before they're gone",
+      "summary": "Swap pads when friction material is near 1-2 mm or braking feels off.",
+      "detail": "Brake pads are wear items: replace them when the friction material wears down to roughly 1-2 mm, or sooner if braking performance drops. Riding pads past their limit can damage rotors and reduce stopping power. Inspect pad thickness and rotors periodically as part of your routine, and follow your manual's minimum-thickness spec.",
+      "tags": ["brakes", "pads", "wear"],
+      "severity": "safety",
+      "sources": [
+        { "name": "EagleLights — When to Replace Pads, Flush Fluid & Inspect Rotors", "url": "https://eaglelights.com/blogs/ride-life/when-to-replace-pads-flush-fluid-inspect-rotors" }
+      ]
+    },
+    {
+      "id": "valve-clearance",
+      "title": "Have valve clearances checked at the scheduled interval",
+      "summary": "Out-of-spec clearances hurt performance and can damage the engine over time.",
+      "detail": "Valve clearance check intervals for street bikes commonly fall between 10,000 and 30,000 miles depending on make and model — sport bikes often nearer 12,000 miles, some cruisers and tourers up to ~24,000. The job needs the factory service manual for the exact clearances and torque specs, plus feeler gauges, and the engine set so the piston is at top dead center on the compression stroke. It is best practice to check clearances any time the top end is opened.",
+      "tags": ["engine", "valves", "interval"],
+      "severity": "attention",
+      "sources": [
+        { "name": "JE Pistons — Checking and Adjusting Valve Clearance on Your Motorcycle", "url": "https://www.jepistons.com/je-powersports-blog/checking-and-adjusting-valve-clearance-on-your-motorcycle/" }
+      ]
+    },
+    {
+      "id": "coolant",
+      "title": "Replace coolant on the maker's schedule",
+      "summary": "Conventional coolant is often every 2 years or ~24,000 miles; long-life types last longer.",
+      "detail": "Many liquid-cooled bikes list standard ethylene-glycol coolant replacement at about every 24 months or 24,000 miles, whichever comes first. Some manufacturers approve long-life OAT or hybrid coolants rated for roughly 3-5 years or up to ~50,000 miles. Use the exact coolant type and interval your manual specifies, and replace earlier if you see rust-colored residue, a sour smell, or run in extreme heat or cold.",
+      "tags": ["coolant", "cooling", "interval"],
+      "severity": "info",
+      "sources": [
+        { "name": "Best Beginner Motorcycles — A Brief Guide to Motorcycle Coolant", "url": "https://www.bestbeginnermotorcycles.com/a-brief-guide-to-motorcycle-coolant-operating-temperatures-change-frequency-more/" }
+      ]
+    },
+    {
+      "id": "battery-care",
+      "title": "Keep the battery topped up, especially in storage",
+      "summary": "A smart maintainer prevents the slow discharge that kills parked batteries.",
+      "detail": "A battery tender / smart maintainer monitors voltage and switches to a float mode when full, so it is safe for long-term connected storage and offsets self-discharge that otherwise leads to sulfation. Lead-acid and lithium batteries need different charge profiles — lead-acid around 14.4 V max, lithium around 14.6 V with a different curve — so use a charger set to the correct chemistry. Match charger amperage to battery size (lighter for small sport-bike batteries, higher for large touring batteries).",
+      "tags": ["battery", "electrical", "storage"],
+      "severity": "info",
+      "sources": [
+        { "name": "Batteries Plus — The Ultimate Guide to Motorcycle Battery Tenders", "url": "https://www.batteriesplus.com/blog/power/best-motorcycle-battery-tenders" },
+        { "name": "Battery Tender — FAQs: Charging, Lights & Troubleshooting", "url": "https://www.batterytender.com/pages/faqs" }
+      ]
+    }
+  ]
+}
